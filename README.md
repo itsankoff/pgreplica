@@ -23,3 +23,6 @@ TBD
 
 ## Resources
 TBD
+
+## License
+[MIT](./LICENSE)
